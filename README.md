@@ -1,1 +1,1 @@
-bojespasaribu.github.com
+http://localhost/bojespasaribu.com/
